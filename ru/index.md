@@ -13,7 +13,6 @@ has_children: true
 - [Перехват коммуникаций](intercepting.md)
 - [Криптография](cryptography.md)
 - [Контроль доступа](access-control.md)
-- [Реверс-инжиниринг](reverse-engineering.md)
 - [Эксплуатация бинарных уязвимостей](binary-exploitation.md)
 - [Комплексная безопасность](integrated-security.md)
 
